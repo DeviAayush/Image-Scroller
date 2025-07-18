@@ -22,10 +22,7 @@ Image-Scroller/
 └── script.js
 
 
-## 📄 License
+## 📥 Clone the Repository
 
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Made with 💖 by [Aayush](https://github.com/DeviAayush)
+```bash
+git clone https://github.com/DeviAayush/Image-Scroller.git
